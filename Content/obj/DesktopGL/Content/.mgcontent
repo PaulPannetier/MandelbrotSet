@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Fonts/Arial/Arial10.spritefont</File>
+    <File>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Fonts/Arial/Arial11.spritefont</File>
+    <File>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Fonts/Arial/Arial12.spritefont</File>
+    <File>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Fonts/Arial/Arial13.spritefont</File>
+    <File>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Fonts/Arial/Arial14.spritefont</File>
+    <File>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Fonts/Arial/Arial15.spritefont</File>
+    <File>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Fonts/Arial/Arial16.spritefont</File>
+    <File>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Fonts/Arial/Arial17.spritefont</File>
+    <File>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Fonts/Arial/Arial18.spritefont</File>
+    <File>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Fonts/Arial/Arial19.spritefont</File>
+    <File>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Fonts/Arial/Arial20.spritefont</File>
+    <File>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Fonts/Arial/Arial21.spritefont</File>
+    <File>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Fonts/Arial/Arial22.spritefont</File>
+    <File>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Fonts/Arial/Arial23.spritefont</File>
+    <File>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Fonts/Arial/Arial24.spritefont</File>
+    <File>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Fonts/Arial/Arial25.spritefont</File>
+    <File>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Fonts/Arial/Arial26.spritefont</File>
+    <File>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Fonts/Arial/Arial27.spritefont</File>
+    <File>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Fonts/Arial/Arial28.spritefont</File>
+    <File>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Fonts/Arial/Arial29.spritefont</File>
+    <File>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Fonts/Arial/Arial30.spritefont</File>
+    <File>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Fonts/Arial/Arial31.spritefont</File>
+    <File>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Fonts/Arial/Arial32.spritefont</File>
+    <File>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Fonts/Arial/Arial33.spritefont</File>
+    <File>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Fonts/Arial/Arial34.spritefont</File>
+    <File>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Fonts/Arial/Arial35.spritefont</File>
+    <File>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Fonts/Arial/Arial36.spritefont</File>
+    <File>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Fonts/Arial/Arial37.spritefont</File>
+    <File>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Fonts/Arial/Arial38.spritefont</File>
+    <File>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Fonts/Arial/Arial39.spritefont</File>
+    <File>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Fonts/Arial/Arial40.spritefont</File>
+    <File>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Fonts/Arial/Arial5.spritefont</File>
+    <File>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Fonts/Arial/Arial6.spritefont</File>
+    <File>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Fonts/Arial/Arial7.spritefont</File>
+    <File>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Fonts/Arial/Arial8.spritefont</File>
+    <File>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Fonts/Arial/Arial9.spritefont</File>
+    <File>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Musics/son.wav</File>
+    <File>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Musics/towerfall.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

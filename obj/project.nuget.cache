@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ps6M4j55pMc6eJ8fT8Cf6wF8ahI2lZnrXRFCYXYeXWUs5d2HXxqjkeTy2xN15zna8oUjEipDMVzmP5V6xKsHTQ==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\Desktop\\I'm a folder\\Perso\\Prog\\C#\\Mandelbrot\\Engine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leona\\.nuget\\packages\\altimesh.hybridizer.runtime.cudaimports\\2.0.0\\altimesh.hybridizer.runtime.cudaimports.2.0.0.nupkg.sha512",
+    "C:\\Users\\leona\\.nuget\\packages\\mathnet.numerics\\4.15.0\\mathnet.numerics.4.15.0.nupkg.sha512",
+    "C:\\Users\\leona\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\leona\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Le package 'Altimesh.Hybridizer.Runtime.CUDAImports 2.0.0' a été restauré en utilisant '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' au lieu du framework cible du projet '.NETCoreApp,Version=v3.1'. Ce package n'est peut-être pas totalement compatible avec votre projet.",
+      "libraryId": "Altimesh.Hybridizer.Runtime.CUDAImports",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

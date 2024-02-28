@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/Musics/towerfall.mp3</SourceFile>
+  <SourceTime>2021-01-07T11:13:36+01:00</SourceTime>
+  <DestFile>D:/Users/Desktop/I'm a folder/Perso/Prog/C#/Mandelbrot/Content/bin/DesktopGL/Content/Musics/towerfall.xnb</DestFile>
+  <DestTime>2022-10-24T20:21:40+02:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2020-08-10T18:17:54+02:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2020-08-10T18:17:54+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Low</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

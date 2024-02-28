@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>F:/Users/leona/Desktop/I'm a folder/Perso/Prog/C#/Engine/OpenGL/Content/Fonts/Arial/Arial40.spritefont</SourceFile>
+  <SourceTime>2021-10-26T22:30:06+02:00</SourceTime>
+  <DestFile>F:/Users/leona/Desktop/I'm a folder/Perso/Prog/C#/Engine/OpenGL/Content/bin/DesktopGL/Fonts/Arial/Arial40.xnb</DestFile>
+  <DestTime>2021-11-21T14:49:17.4346785+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2020-08-10T18:17:54+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2020-08-10T18:17:54+02:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
